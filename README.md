@@ -5,7 +5,7 @@ Sistemas Operacionais
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem-C++-green.svg)
 
--A etapa 5 e 6: consiste em modificar a politica de escalonamento, neste projeto foi adotado 3 politicas, sendo: Roudin Robin, Menor job primeiro e Maior job primeiro. Como algumas das chamadas dos metodos são bastantes semelhantes, a execução do Kernel foi modificada para trabalhar no modelo de template. 
+A etapa 5 e 6: consiste em modificar a politica de escalonamento, neste projeto foi adotado 3 politicas, sendo: Roudin Robin, Menor job primeiro e Maior job primeiro. Como algumas das chamadas dos metodos são bastantes semelhantes, a execução do Kernel foi modificada para trabalhar no modelo de template. 
 Nesta etapa será utilizado os pacotes criados na etapa 5, com a diferença de que agora eles serão processados em threads. A execução das threads aumenta a complexidade, logo o tempo de execução também sofreu impacotos.
 
 Implementação de umsistema multiprogramado, composto por um Gerenciador de Processos,
