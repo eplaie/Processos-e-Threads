@@ -110,7 +110,6 @@ void gerenciador_mem::fifo() {
     estat.fifo_pf = page_fault;
     set_estatisticas(estat);
 }
-
 void gerenciador_mem::sc() {
 
     int page_fault = 0;
