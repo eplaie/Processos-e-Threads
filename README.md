@@ -54,4 +54,4 @@ nos blocos do disco para os processos
 |  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
 |  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
 
-Autor:[Ygor Vieira](https://github.com/eplaie).
+Autor: [Ygor Vieira](https://github.com/eplaie).
