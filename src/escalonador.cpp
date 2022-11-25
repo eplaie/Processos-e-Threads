@@ -62,7 +62,7 @@ void escalonador::le_arquivo_entrada(string arquivo)
     pair<int, int> par_temp;
     vector<pair<int, int>> lista_temp;
     ifstream MyFile(arquivo);
-    // le o arquivo de entrada
+    //le o arquivo de entrada
     while(getline(MyFile, linha)) {
         istringstream iss(linha);
         iss >> a >> b;
