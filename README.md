@@ -1,6 +1,6 @@
 # Processos-e-Threads
 Sistemas Operacionais
-
+<div align="justify">
 # 1 - Sistema Multitarefa
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem-C++-green.svg)
@@ -44,7 +44,7 @@ mantém informações específicas do processo.
 • Módulo de Entrada/Saída – trata a alocação do braço do disco para realização de escrita/leitura 
 nos blocos do disco para os processos
 <br> <br>
-
+</div>
 # Compilação e Execução
 
 
